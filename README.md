@@ -49,7 +49,7 @@ See also the list of contributors who participated in this project.
 
 ### License
 
-This project is licensed under the CC0 1.0 Universal Creative Commons license; see the LICENSE.md file for more details.
+This project is licensed under the CC0 1.0 Universal Creative Commons license; see the [LICENSE.md](LICENSE.md) file for more details.
 Acknowledgements
 
 A tip for anyone whose code is used
